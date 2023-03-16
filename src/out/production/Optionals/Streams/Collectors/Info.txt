@@ -1,0 +1,3 @@
+https://javaconceptoftheday.com/java-8-collectors-tutorial/
+
+https://www.java67.com/2016/03/how-to-get-arraylist-from-stream-in-java8-example.html
