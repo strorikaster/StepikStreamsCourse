@@ -13,7 +13,7 @@ class Classifier {
     public static Map<Integer, List<String>> group(List<String> words) {
         // write your code here
         //return words.stream().collect(groupingBy(word -> word.length()));
-        return words.stream().collect(groupingBy(String::length)); //or shorter
+        return words.stream().collect(groupingBy(String::length)); //or shorter..
     }
 
     public static void main(String[] args) {
