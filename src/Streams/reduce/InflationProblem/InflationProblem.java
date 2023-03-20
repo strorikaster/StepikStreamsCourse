@@ -126,6 +126,10 @@ record Grocery(long cost, Category category) {
 }*/
 
 /* Test cases
+
+
+
+
 Sample Input 1:
 
         1
